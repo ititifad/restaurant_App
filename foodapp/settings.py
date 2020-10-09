@@ -33,7 +33,8 @@ TWILIO_NUMBER = config('TWILIO_NUMBER')
 SMS_BROADCAST_TO_NUMBERS = [ 
     "+255752585587", # use the format +19735551234
     "+255683869602", 
-    "+255719807543", 
+    "+255719807543",
+    "+255699252030" 
 ]
 
 # Application definition
